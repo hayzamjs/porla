@@ -23,7 +23,7 @@
   "homepage": "https://porla.org",
   "devDependencies": {},
   "dependencies": {
-    "@porla/libtorrent": "^0.24.0",
+    "libtorrent": "hayzamjs/libtorrent",
     "lodash": "^4.17.15",
     "winston": "^3.2.1"
   }
