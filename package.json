@@ -1,6 +1,6 @@
 {
   "name": "porla",
-  "version": "0.20.0",
+  "version": "0.25.0",
   "description": "A programmable BitTorrent client.",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   "homepage": "https://porla.org",
   "devDependencies": {},
   "dependencies": {
-    "libtorrent": "hayzamjs/libtorrent",
+    "libtorrent": "https://github.com/hayzamjs/libtorrent",
     "lodash": "^4.17.15",
     "winston": "^3.2.1"
   }
